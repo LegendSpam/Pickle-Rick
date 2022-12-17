@@ -176,7 +176,7 @@ Now type Command Panel followin command:
 ```
 ## `@nswer`
 ```yaml
- mr. meeseek hair
+ **. ******* ****
 ```
 ## Whats the second ingredient Rick needs?
 Now type Command Panel followin command:
@@ -185,7 +185,7 @@ Now type Command Panel followin command:
 ```
 ## `@nswer`
 ```yaml
- 1 jerry tear
+ * ***** ****
 ```
 
 ## Whats the final ingredient Rick needs?
@@ -195,5 +195,5 @@ Now type Command Panel followin command:
 ```
 ## `@nswer`
 ```yaml
- fleeb juice
+ ***** *****
 ```
